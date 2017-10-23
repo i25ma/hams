@@ -1,0 +1,12 @@
+{
+    "name": "25ma/hams",
+    "description": "hams",
+    "type": "project",
+    "authors": [
+        {
+            "name": "25mateam",
+            "email": "25mateam@gmail.com"
+        }
+    ],
+    "require": {}
+}
